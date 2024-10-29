@@ -1,0 +1,4 @@
+1) First follow the youtube video as well as the online documentation to understand that how arduino works as in DFU mode for HUMAN INTERFACE DEVICE.
+2) Download the arduino keyboard hex files from the link given in the folder.
+3) Download and install the FLIP with JRE and follow the procedure in the doc to short your arduino into DFU mode.
+4) Insert the code and work accordingly.
